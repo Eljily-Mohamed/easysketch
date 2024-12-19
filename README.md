@@ -12,7 +12,7 @@
 ## Example Project:
 One of the illustrations created using EasySketch is a **Tesla logo**! Check out the image below to see how EasySketch can be used to draw intricate designs.
 
-![Tesla Logo Drawing](./PyQt5/Labos/tesla.png)
+<img src="./PyQt5/Labos/tesla.png" width="200" />
 
 ## Installation:
 To run EasySketch, you will need to have **PyQT** installed. You can install it using pip:
