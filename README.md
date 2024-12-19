@@ -1,9 +1,7 @@
 
 # EasySketch - Simple Digital Drawing Application
 
-**EasySketch** is an intuitive and user-friendly digital drawing application developed with **PyQT**. The app allows users to create quick sketches and detailed drawings with a smooth and responsive graphical interface. EasySketch provides a variety of drawing tools such as brushes, geometric shapes, and color options for full customization of creations. Thanks to PyQT, the application offers a modern, lightweight, and high-performance interface.
-
-Whether you need a quick sketch or a more detailed illustration, **EasySketch** is the perfect tool for users seeking an efficient and fast drawing solution.
+**EasySketch** is an intuitive and user-friendly digital drawing application developed with **PyQT**. The app allows users to create quick sketches and detailed drawings with a smooth and responsive graphical interface. 
 
 ## Features:
 - Multiple brush styles for freehand drawing.
@@ -25,7 +23,7 @@ pip install pyqt5
 
 ## Usage:
 1. Clone the repository or download the source code.
-2. Run the `easy_sketch.py` file.
+2. Run the `main.py` file.
 3. Start drawing using the various tools available in the interface.
 
 ## License:
